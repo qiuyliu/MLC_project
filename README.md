@@ -1,5 +1,4 @@
-# MLC_project
-### Machine learning for city Final Project
+# Machine learning for city Final Project
 ## A Study on observing and predicting the Rental House Pricing in Manhattan
 ### Authors: Qiuyao Liu(ql459@nyu.edu), Minqi Lu(ml4922@nyu.edu), Jiawen Liang(jl9760@nyu.edu), Guanjia Wang(gw1054@nyu.edu)
 ### Machine learning for cities
